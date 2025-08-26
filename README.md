@@ -1,3 +1,3 @@
-# Mosaic Core
+# THIS REPO IS DEFUNCT
 
-This library is a reference implementation for the Mosaic protocol.
+Please instead use [this one](https://github.com/mikedilger/mosaic-core/).
